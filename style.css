@@ -25,4 +25,5 @@ body {
 #gallery img {
   width: 25%;
   height: 300px;
+  flex-wrap: wrap;
 }

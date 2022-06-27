@@ -17,6 +17,10 @@ body {
   background: #E0DDDD;
 }
 
+#gallery {
+  display: flex;
+}
+
 #gallery img {
   width: 25%;
   height: 300px;

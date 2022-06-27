@@ -11,6 +11,12 @@ body {
    background: #EBE7E7;
   }
 
+.header {
+  text-align: center;
+  padding: 32px;
+  background: #E0DDDD;
+}
+
 #gallery img {
   width: 25%;
   height: 300px;

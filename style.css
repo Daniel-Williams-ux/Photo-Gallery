@@ -20,10 +20,10 @@ body {
 #gallery {
   display: flex;
   flex-direction :row;
+  flex-wrap: wrap;
 }
 
 #gallery img {
   width: 25%;
   height: 300px;
-  flex-wrap: wrap;
 }
